@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@src/*": [
+        "src/*"
+      ],
+      "@common/*": [
+        "src/common/*"
+      ],
+      "@module/*": [
+        "src/module/*"
+      ],
+      "@pipe/*": [
+        "src/pipe/*"
+      ],
+      "@utils/*": [
+        "src/utils/*"
+      ],
+      "@statusCode/*": [
+        "src/statusCode/*"
+      ],
+      "@config/*": [
+        "src/config/*"
+      ],
+    }
+  }
+}
